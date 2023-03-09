@@ -1,0 +1,15 @@
+body {
+    background-color: #FFF8D6;
+}
+
+.achtergrondgeel {
+    background-color: #FFEE99;
+}
+
+.btn{
+    border-radius: 10rem;
+}
+
+footer {
+    min-height: 200px;
+}
